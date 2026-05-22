@@ -8,6 +8,8 @@ tmp
 .DS_Store
 __generated__
 .env
+.solid-start
+.nitro
 
 # llms.txt 및 자동 생성된 마크다운 파일
 public/**/*.md
@@ -26,3 +28,4 @@ public/sitemap.xml
 .idea
 
 app.config.timestamp_*.js
+.env*.local
